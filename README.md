@@ -21,3 +21,5 @@ The homepage will be a recreation of the train station ticket machine interface 
 # Technology 
 
 I will create an HTML webpage.
+
+![Inspiration](image.png)
